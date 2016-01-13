@@ -1,6 +1,9 @@
 # bind to 2020
 :2020
 
+# send logs to stdout
+log stdout
+
 # enable compression
 gzip
 
