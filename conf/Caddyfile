@@ -1,0 +1,8 @@
+# bind to 2020
+:2020
+
+# enable compression
+gzip
+
+# define the html root
+root /html
